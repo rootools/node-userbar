@@ -1,10 +1,10 @@
 {
   "name": "userbar",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "Simple lib to create classic Userbars",
   "main": "lib/userbar.js",
   "dependencies": {
-    "node-gd": "~0.2.2"
+    "node-gd": "*"
   },
   "devDependencies": {},
   "repository": {
@@ -15,7 +15,7 @@
     "userbar",
     "gd"
   ],
-  "author": "Anton 'rootools' Bravin",
+  "author": "Anton Bravin <baboonweb@gmail.com> (http://rootools.github.com/node-userbar/)",
   "license": "MIT",
   "gitHead": "c6cae452b72e87cd4964cd14631288cfab148816"
 }
