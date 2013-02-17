@@ -1,3 +1,7 @@
+# Example
+
+![](example.png)
+
 # Install
 ```
 npm install userbar
