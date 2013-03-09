@@ -1,6 +1,6 @@
 {
   "name": "userbar",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple lib to create classic Userbars",
   "main": "lib/userbar.js",
   "dependencies": {
