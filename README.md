@@ -14,7 +14,8 @@ var options = {
     ltext: 'Left Text',
     rtext: 'Right Text',
     ltextxoffset: 0,      // Left text X offset
-    rtextxoffset: 40};    // Right text X offset
+    rtextxoffset: 40,     // Right text X offset
+    path: 'public/images/out.png'}; // Output image path
 
 userbar.createUserbar(options);
 ```
